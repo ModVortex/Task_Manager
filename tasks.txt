@@ -1,0 +1,2 @@
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+Hannes, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 18 Jul 2022, 1 Aug 2022, No
