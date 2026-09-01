@@ -1,4 +1,4 @@
-# L1Capstone2
+# Task Manager
 This program is designed to manage tasks assigned to members of a business.
 There are two text files user.txt that stores the username and password of a user,
 and then there is task.txt that stores info of the task ex. The description of the task.
